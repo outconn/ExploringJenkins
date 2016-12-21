@@ -5,7 +5,7 @@ Prologue:
 It all started with development of Jenkins connector for Office365. For this connector to work, we needed a plugin in the Jenkins software which can send data to this connector.
 
 Chapter 1:
-The investigation for writing a plugin starts. We found a plugin "Workload Manager" which suits our requirement.
+The investigation for writing a plugin starts. We found a plugin "Workload Manager" which suits our requirement. First proposal was to use the same plugin to send the payload and we generate the swiftcard from that payload in our connector as we do for all other connectors.
 
 The testing is going on. Things are not working and I don't know why! I am trying to find out, but am not getting why Jenkins is not calling my event but is calling Slacks! I am trying all different stuffs.
 
