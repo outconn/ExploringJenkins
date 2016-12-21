@@ -1,6 +1,8 @@
 Intro:
 This file is for story. A story of development of office 365 connector plugin for Jenkins.
 
+Prologue:
+
 
 The testing is going on. Things are not working and I don't know why! I am trying to find out, but am not getting why Jenkins is not calling my event but is calling Slacks! I am trying all different stuffs.
 
