@@ -25,3 +25,6 @@ New story...
 testing pipeline
 
 Testing freestyle..
+
+New story
+testing pipeline
