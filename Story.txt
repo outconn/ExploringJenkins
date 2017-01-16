@@ -27,4 +27,4 @@ testing pipeline
 Testing freestyle..
 
 New story
-testing pipeline
+testing pipeline..
